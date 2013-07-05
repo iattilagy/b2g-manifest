@@ -122,5 +122,5 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="refs/heads/ics-release"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="refs/heads/ics-release"/>
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="gh" revision="refs/heads/ics-release">
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="gh" revision="refs/heads/ics-release"/>
 </manifest>

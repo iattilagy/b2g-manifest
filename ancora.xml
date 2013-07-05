@@ -112,15 +112,15 @@
   <project path="device/qcom/hamachi" name="android-device-hamachi" remote="b2g" revision="master" />
   <project path="kernel" name="kernel/msm" />-->
   <project path="device/samsung/ancora" name="iattilagy/android_device_samsung_ancora" remote="gh" revision="ics-3.0"/>
-  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="gh" revision="refs/heads/ics-release" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="gh" revision="ics-release"/>
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="gh" revision="ics-release"/>
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="gh" revision="ics-release"/>
+  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="gh" revision="ics-release" />
   <!--<project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" />-->
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="gh" revision="refs/heads/ics-release"/>
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="gh" revision="refs/heads/ics-release"/>
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="gh" revision="ics-release"/>
+  <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" remote="gh" revision="ics-release"/>
+  <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics-release"/>
+  <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics-release"/>
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="gh" revision="ics-release"/>
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="gh" revision="ics-release"/>
 </manifest>

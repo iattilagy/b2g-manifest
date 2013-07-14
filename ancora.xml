@@ -118,7 +118,7 @@
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="gh" revision="ics-release"/>
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="gh" revision="ics-release" />
   <!--<project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" />-->
-  <project path="hardware/msm7k" name="platform/hardware/msm7k" revision="master"/>
+  <project path="hardware/msm7k" name="platform/hardware/msm7k"/>
   <project path="vendor/qcom/opensource/omx/mm-core" name="platform/vendor/qcom-opensource/omx/mm-core" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="gh" revision="ics-release"/>
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="gh" revision="ics-release"/>
